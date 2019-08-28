@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/LKTracker.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/define.h" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/mnn_net.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/mnn_net.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/mtcnn.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/mtcnn_demo.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/cpp/tld_tracker.cpp" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
